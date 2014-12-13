@@ -1,0 +1,2 @@
+Use the two CSV's for testing so you dont have to download the entire dataset
+ and wait for it. The first time it runs it should only take like ten minutes.
